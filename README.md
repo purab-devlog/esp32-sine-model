@@ -26,6 +26,7 @@ a dataset here "input" script it will save the dataset in the same directory as 
 Open Arduino IDE, install the ESP32 board first. Go to file --> preferences in additional board manager URLS paste this
 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 https://dl.espressif.com/dl/package_esp32_index.json
 
 Then go to board manager and search for ESP32 by Espressif and install it. Select ESP32 DEV Module in the board manager. 
